@@ -4,5 +4,4 @@ function printMousePos(event) {
     "clientX: " + event.clientX +
     " - clientY: " + event.clientY;
 }
-
 document.addEventListener("click", printMousePos);

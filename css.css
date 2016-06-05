@@ -1,0 +1,5 @@
+div.posi {
+  position:absolute;
+  top: 0; /*[wherever you want it]*/
+  left:0; /*[wherever you want it]*/
+}
