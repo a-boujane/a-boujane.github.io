@@ -1,5 +1,5 @@
-posi {
+div.posi {
   position:absolute;
-  top: 240; /*[wherever you want it]*/
-  left:189; /*[wherever you want it]*/
+  top: 400; 
+  left:400;
 }
