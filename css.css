@@ -1,5 +1,12 @@
-div.posi {
+.position {
   position:absolute;
-  top: 400; 
-  left:400;
+  left:200px;
+  top: 400px;
+}
+.full-circle {
+    background-color:gray;
+    height:30px;
+    width:30px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
 }
