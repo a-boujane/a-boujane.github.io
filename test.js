@@ -1,7 +1,4 @@
-var i=3;
-while (true) {
-  print i;
-}
+
 function printMousePos(event) {
   document.body.textContent =
     "clientX: " + event.clientX +
